@@ -1,10 +1,35 @@
-# SuperStore_excel_project
+# SuperStore_Sales_Project
 
-In this project, there is a strong analysis of the Super Store DataSet with Pivot Table Reports,Pivot Charts and an Interactive Power BI Dashboard
-🔍 Key Highlights:
- ✅ KPI Cards (Orders, Profit, Sales, Quantity, Discounts)
- ✅ Regional Performance (Sales & Profit by Region)
- ✅ Category-wise Sales Breakdown
- ✅ Sales Trend Over Time
- ✅ Sales vs. Shipping Time Analysis
- ✅ Interactive State-wise Sales Map
+This project presents an interactive sales dashboard built with Power BI, designed to visualize key business metrics and uncover actionable insights from sales data.
+
+## 🔍 Key Insights & Features
+
+- Sales Overview: Total sales, profit, and quantity trends over time
+
+- Category & Sub-Category Analysis: Performance comparison across product segments
+
+- Regional Performance: Sales distribution and profit by region and state
+
+- Top/Bottom Performers: Best and worst performing products and customers
+
+- Interactive Filters: Slicers to drill down by category, region, date range, and more
+
+## 🛠 Tools & Technologies
+
+- Power BI Desktop (.pbix)
+
+- Data Cleaning & Transformation using Power Query
+
+- DAX measures for calculations and KPIs
+
+- Data visualization best practices
+
+## 📈 Purpose
+
+- This project was created to practice real-world business intelligence skills and demonstrate capabilities in:
+
+- Data modeling & visualization
+
+- Extracting actionable insights
+
+- Storytelling with data
