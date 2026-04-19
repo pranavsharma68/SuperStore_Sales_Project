@@ -1,33 +1,43 @@
 # SuperStore_Sales_Project
 
-This project presents an interactive sales dashboard built with Power BI, designed to visualize key business metrics and uncover actionable insights from sales data.
+## 📊 Overview
+This project analyzes retail sales data to uncover key business insights and improve decision-making using an interactive Power BI dashboard.
 
-## 🔍 Key Insights & Features
+## 📁 Dataset
+The dataset includes:
+- Order details (Order Date, Ship Mode)
+- Customer information (Segment, Region)
+- Product details (Category, Sub-category)
+- Sales, Profit, Discount, Quantity
 
--Orders with discounts above 20% lead to a 30–40% drop in average profit, indicating discounting as a major driver of losses
+## 🧹 Data Cleaning
+- Removed duplicates and handled missing values
+- Standardized formats (dates, categories)
+- Created calculated fields (KPIs, profit metrics)
+- Prepared data for analysis and visualization
 
--The Technology category contributes ~35–40% of total revenue, making it the top-performing category in terms of sales, though profitability varies across regions
+## 🔍 Key Insights
+- Discounts above 20% reduce profit by 30–40%
+- Technology category contributes ~35–40% of total revenue
+- West region generates ~30–35% of total profit
+- Q4 contributes ~38% of annual sales (seasonal peak)
 
--The West region contributes ~30–35% of total profit, while other regions show inconsistent or negative profit trends
-
--Sales show strong seasonality, with Q4 (Oct–Dec) contributing ~38% of annual revenue, highlighting peak demand periods
+## 📈 Dashboard Features
+- KPI Cards (Sales, Profit, Orders)
+- Sales trends over time
+- Category and region analysis
+- Discount vs Profit insights
+- Interactive filters (Date, Category, Region)
 
 ## 🛠 Tools & Technologies
+- Excel (Data Cleaning)
+- Power BI (Dashboard & Visualization)
+- DAX (KPIs & Calculations)
 
-- Power BI Desktop (.pbix)
+## 🎯 Business Value
+- Identified key profit drivers and loss areas
+- Highlighted impact of discounting on profitability
+- Provided insights to support data-driven decisions
 
-- Data Cleaning & Transformation using Power Query
-
-- DAX measures for calculations and KPIs
-
-- Data visualization best practices
-
-## 📈 Purpose
-
-- This project was created to practice real-world business intelligence skills and demonstrate capabilities in:
-
-- Data modeling & visualization
-
-- Extracting actionable insights
-
-- Storytelling with data
+## 📘 Detailed Case Study
+For a complete breakdown (business problem, recommendations, challenges), refer to the full project documentation.
