@@ -4,15 +4,13 @@ This project presents an interactive sales dashboard built with Power BI, design
 
 ## 🔍 Key Insights & Features
 
-- Sales Overview: Total sales, profit, and quantity trends over time
+-Orders with discounts above 20% lead to a 30–40% drop in average profit, indicating discounting as a major driver of losses
 
-- Category & Sub-Category Analysis: Performance comparison across product segments
+-The Technology category contributes ~35–40% of total revenue, making it the top-performing category in terms of sales, though profitability varies across regions
 
-- Regional Performance: Sales distribution and profit by region and state
+-The West region contributes ~30–35% of total profit, while other regions show inconsistent or negative profit trends
 
-- Top/Bottom Performers: Best and worst performing products and customers
-
-- Interactive Filters: Slicers to drill down by category, region, date range, and more
+-Sales show strong seasonality, with Q4 (Oct–Dec) contributing ~38% of annual revenue, highlighting peak demand periods
 
 ## 🛠 Tools & Technologies
 
